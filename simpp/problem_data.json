@@ -1,0 +1,12 @@
+{     
+    "Problem1":{ 
+       "comment":"Just any note",
+       "type":"ILP problem",
+       "has_slack_variables":true,
+       "values":{
+        "c" : [5, 4, 0, 0],
+        "A" : [[3, 5, 1, 0], [4, 1, 0, 1]],
+        "b" : [78, 36]
+        }    
+    }
+ }
