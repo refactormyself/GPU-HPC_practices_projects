@@ -1,0 +1,3 @@
+[submodule "OpenMP_practices_projects"]
+	path = OpenMP_practices_projects
+	url = git@github.com:refactormyself/OpenMP_practices_projects.git
